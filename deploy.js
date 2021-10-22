@@ -2,7 +2,7 @@ const HDWalletProvider = require('truffle-hdwallet-provider');
 const Web3 = require('web3');
 const { interface, bytecode } = require('./compile');
 
-const accountMnemonic = 'wash exercise isolate since behave divorce pear system lamp small water rabbit';
+const accountMnemonic = '';
 const infura = {
     endpoints: {
         rinkeby: 'https://rinkeby.infura.io/v3/023a9858cbba44b69d73919b72d1006b',
